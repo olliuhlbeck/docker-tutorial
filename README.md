@@ -2,6 +2,8 @@
 
 This repository contains my work while completing the Docker Getting Started tutorial.
 
+Tutorial: https://docs.docker.com/get-started/workshop/
+
 ## What I Learned
 
 - Containerizing an application with Docker
